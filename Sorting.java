@@ -39,8 +39,7 @@ public class Sorting {
 	 * of pairs in the map. 
 	 */
     public static <K, V extends Comparable> ArrayList<K> fastSort(HashMap<K, V> results) {
-    	// ADD YOUR CODE HERE
-    	///COPIED AND PASTED HERE
+    	// 
     	
     	//FOR EVERY HEAPLIST REPLACE WITH SORTED URLS
     	//FOR EVERY L REPLACE WITH lengthUrls
