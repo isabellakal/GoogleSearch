@@ -12,8 +12,7 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 
-/* YOU SHOULD NOT NEED TO LOOK AT THIS CODE AT ALL.
-   BUT IT COULD BE INTERESTING FOR YOU TO SEE HOW IT WORKS. */
+/*  */
 
 // This class implements a simple parser for xml documents
 public class XmlParser {
